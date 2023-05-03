@@ -7,8 +7,6 @@ Aqui vou postar um pouco dos meus trabalhos pelos quais venho adquirindo conheci
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhbfsouza&show_icons=true&theme=tokyonight)
 
-![snake gif](https://github.com/victorhbfsouza/victorhbfsouza/blob/output/github-contribution-grid-snake.svg) 
-
 Me siga nas redes sociais
 
 <div> 
