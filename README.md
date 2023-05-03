@@ -20,6 +20,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">	  
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/github_3291695?term=github&page=1&position=1&origin=search&related_id=3291695.png">
 </div><br>
 
 <h3>Me siga nas redes sociais:</h3>
