@@ -4,7 +4,7 @@
 <p>Minha experiência co a área de DEV vem do curso que faço de desenvolvedor Full-stack ministrado pelo SENAI em parceria com o Parque Tecnológico Região Serrana (SERRATEC) com previsão de término em julho/2023.</p>
 <p>Aqui vou postar um pouco dos meus trabalhos pelos quais venho adquirindo conhecimento, fique avontade para vizualizá-los.</p>
 
-<div align="center">
+<div>
   <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorhbfsouza&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhbfsouza&theme=tokyonight&hide_border=false&&layout=compact"/>
