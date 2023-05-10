@@ -1,7 +1,7 @@
 <h1>👨‍💻 Olá ⚖</h1>
 
 <p>Me chamo Victor Hugo, sou bacharel em direito formado pela universidade Estácio de Sá e atualmente encontro-me em transição de carreira.</p>
-<p>Minha experiência co a área de DEV vem do curso que faço de desenvolvedor Full-stack ministrado pelo SENAI em parceria com o Parque Tecnológico Região Serrana (SERRATEC) com previsão de término em julho/2023.</p>
+<p>Minha experiência com a área de DEV vem do curso que faço de desenvolvedor Full-stack ministrado pelo SENAI em parceria com o Parque Tecnológico Região Serrana (SERRATEC) com previsão de término em julho/2023.</p>
 <p>Aqui vou postar um pouco dos meus trabalhos pelos quais venho adquirindo conhecimento, fique avontade para vizualizá-los.</p>
 
 <div>
