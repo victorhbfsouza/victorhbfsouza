@@ -14,14 +14,14 @@
 <h3>Um pouco do meu conhecimento:</h3>
 
 <div><br>
-  <img align="center" alt="POSTEGREE" height="30" width="40" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117">
+  <img align="center" alt="POSTEGREE" height="30" width="40" src="https://e7.pngegg.com/pngimages/417/118/png-clipart-postgresql-encapsulated-postscript-computer-icons-others-miscellaneous-blue.png">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">	
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://static-00.iconduck.com/assets.00/github-icon-512x499-ziwq0a1i.png">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">	
+  <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GITHUB" height="30" width="40" src="https://static-00.iconduck.com/assets.00/github-icon-512x499-ziwq0a1i.png">
 </div><br>
 
 <h3>Me siga nas redes sociais:</h3>
