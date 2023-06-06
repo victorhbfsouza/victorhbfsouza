@@ -19,7 +19,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="REACT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">	
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">
+  <img align="center" alt="FIGMA" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEA76vGUZ-_THtitPeQj2TJ8jY6-RkOi5izT0uSiSYg&s">	
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GITHUB" height="30" width="40" src="https://static-00.iconduck.com/assets.00/github-icon-512x499-ziwq0a1i.png">
 </div><br>
