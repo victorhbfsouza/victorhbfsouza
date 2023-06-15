@@ -20,7 +20,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">
-  <img align="center" alt="REACT NATIVE" height="30" width="40" src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png">
+  <img align="center" alt="REACT NATIVE" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWLFZVE1AkJRtOcdGieBcG2o3tu8NF8xXabg&usqp=CAU">
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format">	
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GITHUB" height="30" width="40" src="https://static-00.iconduck.com/assets.00/github-icon-512x499-ziwq0a1i.png">
