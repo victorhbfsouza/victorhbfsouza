@@ -5,7 +5,7 @@
 <p>Aqui vou postar um pouco dos meus trabalhos pelos quais venho adquirindo conhecimento, fique avontade para vizualizá-los.</p>
 
 <div>
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/victorhbfsouza">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorhbfsouza&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhbfsouza&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
@@ -14,19 +14,19 @@
 <h3>Um pouco do meu conhecimento:</h3>
 
 <div><br>
-  <img align="center" alt="POSTEGREES" height="30" width="70" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="SQLITE" height="40" width="70" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="JAVA" height="40" width="70" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="INSOMNIA" height="40" width="70" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-  <img align="center" alt="HTML" height="40" width="70" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="40" width="70" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JS" height="40" width="70" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="REACT" height="40" width="70" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="REACT_NATIVE" height="40" width="70" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="NPM" height="40" width="70" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img align="center" alt="FIGMA" height="40" width="70" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">	
-  <img align="center" alt="GIT" height="40" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="GITHUB" height="40" width="70" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="POSTEGREES" height="34" width="70" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="SQLITE" height="34" width="70" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="JAVA" height="34" width="70" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="INSOMNIA" height="34" width="70" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+  <img align="center" alt="HTML" height="34" width="70" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" height="34" width="70" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JS" height="34" width="70" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img align="center" alt="REACT" height="34" width="70" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="REACT_NATIVE" height="34" width="70" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="NPM" height="34" width="70" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img align="center" alt="FIGMA" height="34" width="70" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">	
+  <img align="center" alt="GIT" height="34" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GITHUB" height="34" width="70" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
 <h3>Me siga nas redes sociais:</h3>
