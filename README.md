@@ -1,8 +1,8 @@
 <h1>👨‍💻 Olá ⚖</h1>
 
 <p>Me chamo Victor Hugo, sou bacharel em direito formado pela Universidade Estácio de Sá e atualmente encontro-me em transição de carreira.</p>
-<p>Minha experiência com a área de DEV veio do curso que fiz de desenvolvedor Full-stack ministrado pelo SENAI em parceria com o Parque Tecnológico Região Serrana (SERRATEC).</p>
-<p>Atualmente faço curso de Introdução a Qualidade de SoftWare (IQS) mistrado pela UFF (Universidade Federal Fulminense) em parceria com a FEST (Fábrica Escola de Software e Teste) com previsão de término em agosto/2023.</p>
+<p>Minha experiência com a área de DEV veio do curso que fiz de desenvolvedor Full-stack ministrado pelo SENAI em parceria com o Parque Tecnológico Região Serrana (SERRATEC) e do curso de Introdução à Qualidade de Software (IQS) ministrado pela FEST em parceria com a UFF.</p>
+<p>Atualmente atuo como Programador Trainee buscando cada vez mais conhecimento para meu desenvolvimento pessoal e profissional.</p>
 <p>Aqui vou postar um pouco dos meus trabalhos pelos quais venho adquirindo conhecimento, fique avontade para vizualizá-los.</p>
 
 <div>
@@ -17,6 +17,7 @@
 <div><br>
   <img align="center" alt="POSTEGREES" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="SQLITE"src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="C#"src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="INSOMNIA" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
