@@ -34,9 +34,6 @@
   <img align="center" alt="GITHUB" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-<br><p align="centre"><b>Visitors Count</b></p>      
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorhbfsouza}/count.svg" />
-
 <h3>Me siga nas redes sociais:</h3>
 
 <div> 
