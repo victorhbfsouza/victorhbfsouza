@@ -2,7 +2,7 @@
 
 <p>Me chamo Victor Hugo, sou bacharel em direito formado pela Universidade Estácio de Sá e atualmente encontro-me em transição de carreira.</p>
 <p>Minha experiência com a área de DEV veio do curso que fiz de desenvolvedor Full-stack ministrado pelo SENAI em parceria com o Parque Tecnológico Região Serrana (SERRATEC) e do curso de Introdução à Qualidade de Software (IQS) ministrado pela FEST em parceria com a UFF.</p>
-<p>Atualmente atuo como Programador Trainee buscando cada vez mais conhecimento para meu desenvolvimento pessoal e profissional.</p>
+<p>Neste momento atuo como Programador Trainee buscando cada vez mais conhecimento para meu desenvolvimento pessoal e profissional.</p>
 <p>Aqui vou postar um pouco dos meus trabalhos pelos quais venho adquirindo conhecimento, fique avontade para vizualizá-los.</p>
 
 <div>
